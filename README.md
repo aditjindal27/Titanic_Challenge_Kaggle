@@ -16,10 +16,10 @@ Embarkment port
 
 # Libraries utilized:
 
-Numpy for data manipulation\
-Pandas for data frames
-matplotlib for data visualization
-seaborn for data visualization
-scikit-learn for machine learning
+Numpy for data manipulation \
+Pandas for data frames \
+matplotlib for data visualization \
+seaborn for data visualization \
+scikit-learn for machine learning \
 
 
