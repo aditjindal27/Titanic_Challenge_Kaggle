@@ -10,9 +10,9 @@ Age in years	\
 Number of siblings / spouses aboard the Titanic	\
 Number of parents / children aboard the Titanic	\
 Ticket number	\
-Passenger fare	
-Cabin number	
-Embarkment port
+Passenger fare	\
+Cabin number	\
+Embarkment port\
 
 # Libraries utilized:
 
