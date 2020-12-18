@@ -12,7 +12,7 @@ Number of parents / children aboard the Titanic	\
 Ticket number	\
 Passenger fare	\
 Cabin number	\
-Embarkment port\
+Embarkment port
 
 # Libraries utilized:
 
@@ -20,6 +20,6 @@ Numpy for data manipulation \
 Pandas for data frames \
 matplotlib for data visualization \
 seaborn for data visualization \
-scikit-learn for machine learning \
+scikit-learn for machine learning 
 
 
